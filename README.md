@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and and passionate about 
 - 🎓 &nbsp; Studying Computer Science and Engineering at JSS Science and Technology University,Mysuru.
 - 💼 &nbsp; Incoming SDE Intern @Qualcomm.
-- 🌱 &nbsp; Exploring WebDev and Machine Learning,Nueral Networks.
+- 🌱 &nbsp; Exploring WebDev and Machine Learning,Neural Networks.
 - ✍️ &nbsp; I kill my boredom with hobbies like blog writing,basketball.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
