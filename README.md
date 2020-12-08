@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and and passionate about 
+- 🤔 &nbsp; Exploring new technologies and a passionate programmer.
 - 🎓 &nbsp; Studying Computer Science and Engineering at JSS Science and Technology University,Mysuru.
 - 💼 &nbsp; Incoming SDE Intern @Qualcomm.
 - 🌱 &nbsp; Exploring WebDev and Machine Learning,Neural Networks.
