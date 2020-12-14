@@ -43,7 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://akshay-hegde-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://akshay-hegde-portfolio.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://medium.com/@akshay4570"><img alt="Website" src="https://img.shields.io/badge/Website-https://medium.com/@akshay4570.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/akshay-hegde-779a41183/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Akshay%20S%20Hegde-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:akshay4570@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-akshay4570@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
