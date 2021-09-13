@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and a passionate programmer.
 - 🎓 &nbsp; Studying Computer Science and Engineering at JSS Science and Technology University,Mysuru.
-- 💼 &nbsp; Incoming SDE Intern @Qualcomm.
+- 💼 &nbsp; Programmer Analyst, Associate @Qualcomm.
 - 🌱 &nbsp; Exploring WebDev and Machine Learning,Neural Networks.
 - ✍️ &nbsp; I kill my boredom with hobbies like blog writing,basketball.
 
